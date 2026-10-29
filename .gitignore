@@ -1,0 +1,5 @@
+node_modules
+dist
+.vercel
+# Original full-size art; the web build uses public/assets (see scripts/optimize_assets.py)
+asset/
